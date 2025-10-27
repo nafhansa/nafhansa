@@ -12,8 +12,17 @@
 
 <div align="center">
   <h3>SOCIAL MEDIA</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram,discord,github,linkedin">
+  <a href="https://instagram.com/nafhanshafy" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://discord.com/users/NafhanSA#1812" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
+  </a>
+  <a href="https://github.com/nafhansa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nafhan-shafy-aulia-a95275307/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </div>
 
