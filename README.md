@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=009973&center=true&vCenter=true&random=false&width=435&lines=Hello+Guys!!!;I'm+Nafhan+Shafy;System+%26+Info.+Tech+at+ITB;Loves+Coding+%26+Coffee" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=009973&center=true&vCenter=true&random=false&width=435&lines=Hello+Guys!!!;I'm+Nafhan+Shafy;System+%26+Info.+Tech+at+ITB;Fullstack+Developer;Loves+Coding+%26+Coffee" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,11 +32,14 @@
 
 <div align="center">
   <h3>TECH STACK</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,c,py,java" height="40" alt="Frontend & Langs"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,mysql" height="40" alt="Backend & DB" style="margin-top: 10px;"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,arduino,blender,ps" height="40" alt="Tools" style="margin-top: 10px;"/>
+  
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css" height="45" alt="Frontend"/>
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,mysql" height="45" alt="Backend"/>
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=java,py,c,git,vscode,postman,arduino,blender,ps" height="45" alt="Tools"/>
 </div>
 
 <hr>
@@ -54,11 +57,9 @@
 
 <div align="center">
   <h3>STATISTICS</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Nafhan's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&layout=compact&langs_count=8&card_width=320&theme=gotham&hide_border=true" height="150" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak" />
-  </p>
+  ![Nafhansa Stats](https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&layout=compact&langs_count=8&card_width=320&theme=gotham&hide_border=true)
+  
+  ![Streak](https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true)
 </div>
