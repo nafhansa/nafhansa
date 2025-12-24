@@ -2,7 +2,10 @@ name: Generate Snake
 
 on:
   schedule:
+    # Jalan otomatis setiap jam 12 malam
     - cron: "0 0 * * *" 
+  
+  # Biar bisa dijalankan manual
   workflow_dispatch:
 
 jobs:
