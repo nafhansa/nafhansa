@@ -57,9 +57,16 @@
 
 <div align="center">
   <h3>STATISTICS</h3>
-  ![Nafhansa Stats](https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&layout=compact&langs_count=8&card_width=320&theme=gotham&hide_border=true)
-  
-  ![Streak](https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true)
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="https://github.com/nafhansa">
+      <img src="https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Nafhansa Stats" />
+    </a>
+    <a href="https://github.com/nafhansa">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&layout=compact&langs_count=8&card_width=320&theme=gotham&hide_border=true" height="150" alt="Top Languages" />
+    </a>
+  </div>
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
