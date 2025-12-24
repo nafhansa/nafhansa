@@ -70,3 +70,10 @@
     <img src="https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
+<div align="center">
+  <h3>ACHIEVEMENTS</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nafhansa&theme=gotham&no-frame=true&no-bg=true&margin-w=4" alt="nafhansa trophies" />
+  </a>
+</div>
