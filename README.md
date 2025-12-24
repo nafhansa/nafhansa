@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JSH32/JSH32/master/assets/main.gif">
+  <img src="https://github.com/nafhansa/nafhansa/blob/1f61eb92f51a3a7ca1d4bb4b93192ae8e7b48ed9/arcade.gif">
 </div>
 
 <hr>
