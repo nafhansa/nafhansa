@@ -32,9 +32,11 @@
 
 <div align="center">
   <h3>TECH STACK</h3>
-  <img src="https://skillicons.dev/icons?i=c,py,java,css,html,js" height="40" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,c,py,java" height="40" alt="Frontend & Langs"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=arduino,blender,git,mysql,ps,vscode" height="40" alt="Tools" style="margin-top: 10px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase,mysql" height="40" alt="Backend & DB" style="margin-top: 10px;"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,arduino,blender,ps" height="40" alt="Tools" style="margin-top: 10px;"/>
 </div>
 
 <hr>
@@ -52,16 +54,11 @@
 
 <div align="center">
   <h3>STATISTICS</h3>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/nafhansa">
-      <img src="https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="165" alt="Nafhansa's Stats">
-    </a>
-    <a href="https://github.com/nafhansa">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&layout=compact&langs_count=8&card_width=320&theme=gotham&hide_border=true" height="165" alt="Top Languages">
-    </a>
-  </div>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak">
-  </a>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Nafhan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&layout=compact&langs_count=8&card_width=320&theme=gotham&hide_border=true" height="150" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak" />
+  </p>
 </div>
