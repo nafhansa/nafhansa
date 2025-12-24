@@ -57,28 +57,25 @@
 
 <div align="center">
   <h3>STATISTICS & ACHIEVEMENTS</h3>
-  <p>
-    <a href="https://github.com/nafhansa">
-      <img src="https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true" height="150" alt="Nafhansa Stats" />
-    </a>
-    <a href="https://github.com/nafhansa">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&layout=compact&langs_count=8&card_width=320&theme=gotham&hide_border=true" height="150" alt="Top Languages" />
-    </a>
-  </p>
   
-  <p>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak" />
-    </a>
-  </p>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nafhansa&amp;show_icons=true&amp;theme=gotham&amp;hide_border=true&amp;count_private=true&amp;v=1" height="150" alt="Nafhansa Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;theme=gotham&amp;hide_border=true&amp;v=1" height="150" alt="Top Languages" />
+  </div>
   
   <br/>
 
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nafhansa&amp;theme=gotham&amp;date_format=M%20j%5B%2C%20Y%5D&amp;mode=weekly&amp;hide_border=true" alt="GitHub Streak" />
+  </a>
+  
+  <br/><br/>
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nafhansa&theme=gotham&no-frame=true&no-bg=true&margin-w=4" alt="nafhansa trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nafhansa&amp;theme=gotham&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;v=1" alt="Trophies" />
   </a>
 
   <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=nafhansa&style=flat-square&color=009973&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nafhansa&amp;style=flat-square&amp;color=009973&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
