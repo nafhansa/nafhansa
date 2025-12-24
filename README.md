@@ -57,22 +57,22 @@
 
 <div align="center">
   <h3>STATISTICS & ACHIEVEMENTS</h3>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <p>
     <a href="https://github.com/nafhansa">
-      <img src="https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="Nafhansa Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nafhansa&show_icons=true&theme=gotham&hide_border=true" height="150" alt="Nafhansa Stats" />
     </a>
     <a href="https://github.com/nafhansa">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafhansa&layout=compact&langs_count=8&card_width=320&theme=gotham&hide_border=true" height="150" alt="Top Languages" />
     </a>
-  </div>
+  </p>
   
-  <br>
+  <p>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nafhansa&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
-  <br/><br/>
+  <br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=nafhansa&theme=gotham&no-frame=true&no-bg=true&margin-w=4" alt="nafhansa trophies" />
